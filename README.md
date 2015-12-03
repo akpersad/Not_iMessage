@@ -2,7 +2,7 @@
 
 ## Description
 
-Add a short description of your app.
+Fun little project I did to try and understand Websockets. I used the websockets-rails gem.
 
 ## Screenshots
 
@@ -25,16 +25,3 @@ How do users use your app?
 
 Explain how people can contribute to your app. How should they write tests?
 Any things in particular you'd like to see in pull requests?
-
-## Future
-
-What features are you currently working on? Only mention things that you
-actually are implementing. No pie-in-the-sky-never-gonna-happen stuff.
-
-## Author
-
-Link to your blog, twitter, etc!
-
-## License
-
-Not Imessage is MIT Licensed. See LICENSE for details.
